@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "e01",
+    "name": "Consumer Electronics Show (CES)",
+    "date": "2026-01-06",
+    "end": "2026-01-09",
+    "city": "Las Vegas",
+    "country": "US",
+    "url": "https://www.ces.tech",
+    "cat": [
+      "Tech",
+      "AI"
+    ],
+    "focus": "Världens största konsumentelektronik- och tech-mässa"
+  },
+  {
+    "id": "e02",
+    "name": "J.P. Morgan Healthcare Conference",
+    "date": "2026-01-12",
+    "end": "2026-01-15",
+    "city": "San Francisco",
+    "country": "US",
+    "url": "https://www.jpmorgan.com/about-us/events-conferences/health-care-conference",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Världens viktigaste healthcare-investerarkonferens"
+  },
+  {
+    "id": "e03",
+    "name": "Digital Medicine & Medtech Showcase",
+    "date": "2026-01-12",
+    "end": "2026-01-14",
+    "city": "San Francisco",
+    "country": "US",
+    "url": "https://www.medtechshowcase.com",
+    "cat": [
+      "Medtech",
+      "Investor"
+    ],
+    "focus": "Medtech-showcase parallellt med JPM-veckan"
+  },
+  {
+    "id": "e04",
+    "name": "Biotech Showcase",
+    "date": "2026-01-12",
+    "end": "2026-01-14",
+    "city": "San Francisco",
+    "country": "US",
+    "url": "https://informaconnect.com/biotech-showcase/",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Investerarkonferens parallellt med JPM Healthcare"
+  },
+  {
+    "id": "e05",
+    "name": "GoWest Nordic VC Forum",
+    "date": "2026-01-27",
+    "end": "2026-01-29",
+    "city": "Göteborg",
+    "country": "SE",
+    "url": "https://www.gowest.capital",
+    "cat": [
+      "Deeptech",
+      "VC",
+      "Startup"
+    ],
+    "focus": "Pre-seed till Series A, deeptech, investerarmatchning"
+  },
+  {
+    "name": "sTARTUp Day",
+    "date": "2026-01-28",
+    "end": "2026-01-30",
+    "city": "Tartu",
+    "country": "EE",
+    "url": "https://www.startupday.ee",
+    "cat": [
+      "Startup",
+      "VC"
+    ],
+    "focus": "Estlands största startup-festival, 3000+ deltagare",
+    "id": "e81"
+  },
+  {
+    "id": "e06",
+    "name": "Integrated Systems Europe",
+    "date": "2026-02-03",
+    "end": "2026-02-06",
+    "city": "Barcelona",
+    "country": "ES",
+    "url": "https://www.iseurope.org",
+    "cat": [
+      "Tech"
+    ],
+    "focus": "Världens största AV- och systemintegrationsmässa"
+  },
+  {
+    "id": "e07",
+    "name": "Finovate Europe",
+    "date": "2026-02-10",
+    "end": "2026-02-11",
+    "city": "London",
+    "country": "UK",
+    "url": "https://informaconnect.com/finovateeurope/",
+    "cat": [
+      "Fintech",
+      "Startup"
+    ],
+    "focus": "Ledande fintech-konferens, 7-min live demos"
+  },
+  {
+    "id": "e11",
+    "name": "Tech Arena",
+    "date": "2026-02-11",
+    "end": "2026-02-12",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://techarena.se",
+    "cat": [
+      "Tech",
+      "AI",
+      "Startup",
+      "VC"
+    ],
+    "focus": "Skandinaviens största tech & business-event"
+  },
+  {
+    "id": "e08",
+    "name": "Stockholm Fintech Week",
+    "date": "2026-02-12",
+    "end": "2026-02-13",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://stockholmfintechweek.com",
+    "cat": [
+      "Fintech",
+      "Startup"
+    ],
+    "focus": "Nordisk fintech-hub, nätverkande och pitch"
+  },
+  {
+    "id": "e12",
+    "name": "Swiss Nordic Bio",
+    "date": "2026-03-07",
+    "end": "2026-03-07",
+    "city": "Zürich",
+    "country": "CH",
+    "url": "https://www.b2match.com",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Schweizisk-nordiskt life science-partnerskap"
+  },
+  {
+    "id": "e15",
+    "name": "BIO-Europe Spring",
+    "date": "2026-03-17",
+    "end": "2026-03-19",
+    "city": "Lissabon",
+    "country": "PT",
+    "url": "https://informaconnect.com/bioeurope-spring/",
+    "cat": [
+      "Life Science",
+      "Biotech"
+    ],
+    "focus": "Pharma/biotech dealmaking"
+  },
+  {
+    "id": "e19",
+    "name": "Breakit Funding Day",
+    "date": "2026-03-24",
+    "end": "2026-03-24",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://event.breakit.se/funding-day-2026",
+    "cat": [
+      "VC",
+      "Startup"
+    ],
+    "focus": "Finansiering för startups & techbolag, 250+ deltagare, Epicenter Stockholm"
+  },
+  {
+    "name": "CEE VC Summit",
+    "date": "2026-03-24",
+    "end": "2026-03-25",
+    "city": "Warszawa",
+    "country": "EU",
+    "url": "https://www.vestbee.com/cee-vc-summit/",
+    "cat": [
+      "VC",
+      "Investor"
+    ],
+    "focus": "Invite-only VC-event för Centraleuropa, 200+ GPs och LPs",
+    "id": "e82"
+  },
+  {
+    "id": "e17",
+    "name": "GPC Conference",
+    "date": "2026-03-25",
+    "end": "2026-03-25",
+    "city": "New York",
+    "country": "US",
+    "url": "https://www.gpcconference.org",
+    "cat": [
+      "VC",
+      "Investor"
+    ],
+    "focus": "LP/GP-konferens, global private capital"
+  },
+  {
+    "id": "e18",
+    "name": "Skåne Capital Day",
+    "date": "2026-03-26",
+    "end": "2026-03-26",
+    "city": "Malmö",
+    "country": "SE",
+    "url": "https://registration.invajo.com/5256707d-3a6f-48fb-b881-5ebcbcb39e9e?page=18007496-7dc4-489f-8f46-fb9b63b7ac41",
+    "cat": [
+      "VC",
+      "Startup"
+    ],
+    "focus": "Regionalt investerarevent Skåne"
+  },
+  {
+    "id": "e20",
+    "name": "Swedish Life Science Investor Meeting",
+    "date": "2026-04-11",
+    "end": "2026-04-11",
+    "city": "Virtuell",
+    "country": "SE",
+    "url": "https://www.b2match.com",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Virtuell investerardag"
+  },
+  {
+    "id": "e21",
+    "name": "Saasiest",
+    "date": "2026-04-16",
+    "end": "2026-04-16",
+    "city": "Malmö",
+    "country": "SE",
+    "url": "https://saasiest.com",
+    "cat": [
+      "SaaS",
+      "Startup"
+    ],
+    "focus": "Nordens största SaaS-konferens"
+  },
+  {
+    "id": "e22",
+    "name": "Women in Tech Sweden",
+    "date": "2026-04-17",
+    "end": "2026-04-17",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://womenintech.se",
+    "cat": [
+      "Tech",
+      "Diversity"
+    ],
+    "focus": "Nätverksträff, diversity i tech"
+  },
+  {
+    "id": "e23",
+    "name": "Anglonordic Life Science",
+    "date": "2026-04-17",
+    "end": "2026-04-17",
+    "city": "London",
+    "country": "UK",
+    "url": "https://www.anglonordiclifescience.com",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Anglo-nordisk investerarkonferens"
+  },
+  {
+    "name": "Breakit AI Day",
+    "date": "2026-04-22",
+    "end": "2026-04-22",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://event.breakit.se/ai-day-2026",
+    "cat": [
+      "AI",
+      "Tech",
+      "Startup"
+    ],
+    "focus": "Sveriges viktigaste AI-mötesplats, 400+ deltagare, Space Arena",
+    "id": "e90"
+  },
+  {
+    "id": "e24",
+    "name": "Nordic Growth Summit",
+    "date": "2026-04-23",
+    "end": "2026-04-23",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "",
+    "cat": [
+      "Deeptech",
+      "AI"
+    ],
+    "focus": "Human-AI för nordisk business scaling"
+  },
+  {
+    "id": "e25",
+    "name": "LSX World Congress",
+    "date": "2026-04-29",
+    "end": "2026-04-30",
+    "city": "London",
+    "country": "UK",
+    "url": "https://www.lsxleaders.com",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Life science investerarmatchning"
+  },
+  {
+    "id": "e27",
+    "name": "Nordic Edge Expo",
+    "date": "2026-05-07",
+    "end": "2026-05-08",
+    "city": "Stavanger",
+    "country": "NO",
+    "url": "https://www.nordicedgeexpo.org",
+    "cat": [
+      "Tech",
+      "Cleantech"
+    ],
+    "focus": "Smart cities och hållbar stadsutveckling"
+  },
+  {
+    "id": "e28",
+    "name": "Bio Equity Europe",
+    "date": "2026-05-12",
+    "end": "2026-05-13",
+    "city": "TBD",
+    "country": "EU",
+    "url": "https://informaconnect.com/bioequity-europe/",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Investerarfokus biotech"
+  },
+  {
+    "id": "e29",
+    "name": "Vitalis",
+    "date": "2026-05-13",
+    "end": "2026-05-14",
+    "city": "Göteborg",
+    "country": "SE",
+    "url": "https://vitalis.nu",
+    "cat": [
+      "Medtech",
+      "Healthtech"
+    ],
+    "focus": "Nordens största e-hälsokonferens"
+  },
+  {
+    "id": "e30",
+    "name": "Demo North Summit",
+    "date": "2026-05-14",
+    "end": "2026-05-14",
+    "city": "Norrland",
+    "country": "SE",
+    "url": "https://www.demonorth.com",
+    "cat": [
+      "Startup"
+    ],
+    "focus": "Startup-summit Norrland"
+  },
+  {
+    "name": "EU-Startups Summit",
+    "date": "2026-05-14",
+    "end": "2026-05-15",
+    "city": "Malta",
+    "country": "EU",
+    "url": "https://www.eu-startups.com/summit/",
+    "cat": [
+      "Startup",
+      "VC"
+    ],
+    "focus": "2500+ founders, investerare och corporates från hela Europa",
+    "id": "e83"
+  },
+  {
+    "id": "e31",
+    "name": "Deeptech Momentum",
+    "date": "2026-05-15",
+    "end": "2026-05-16",
+    "city": "Berlin",
+    "country": "DE",
+    "url": "https://www.deeptechmomentum.eu",
+    "cat": [
+      "Deeptech",
+      "VC"
+    ],
+    "focus": "European deep tech renaissance"
+  },
+  {
+    "id": "e32",
+    "name": "Mash Up Day Malmö",
+    "date": "2026-05-15",
+    "end": "2026-05-16",
+    "city": "Malmö",
+    "country": "SE",
+    "url": "https://www.mashup.day/",
+    "cat": [
+      "SaaS",
+      "Startup"
+    ],
+    "focus": "Malmö Stad + AWS, seed/A-runda"
+  },
+  {
+    "id": "e34",
+    "name": "Women in Private Markets NA",
+    "date": "2026-05-15",
+    "end": "2026-05-15",
+    "city": "New York",
+    "country": "US",
+    "url": "https://www.peievents.com",
+    "cat": [
+      "VC",
+      "Diversity"
+    ],
+    "focus": "Nordamerikanskt PE/VC diversity-event"
+  },
+  {
+    "id": "e33",
+    "name": "Nordic Sustainability Expo",
+    "date": "2026-05-17",
+    "end": "2026-05-18",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://www.nordicsustainabilityexpo.com",
+    "cat": [
+      "Cleantech"
+    ],
+    "focus": "Hållbarhet och cleantech i Norden"
+  },
+  {
+    "name": "PODIM Conference",
+    "date": "2026-05-19",
+    "end": "2026-05-20",
+    "city": "Maribor",
+    "country": "EU",
+    "url": "https://podim.org",
+    "cat": [
+      "Startup",
+      "VC"
+    ],
+    "focus": "Slovensk tech-konferens med Deal Room och mentoring",
+    "id": "e84"
+  },
+  {
+    "id": "e35",
+    "name": "LSX Nordic Congress",
+    "date": "2026-05-20",
+    "end": "2026-05-21",
+    "city": "TBD",
+    "country": "Nordic",
+    "url": "https://www.lsxleaders.com",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Nordisk life science investerarkonferens"
+  },
+  {
+    "id": "e36",
+    "name": "Finovate Spring",
+    "date": "2026-05-21",
+    "end": "2026-05-22",
+    "city": "San Francisco",
+    "country": "US",
+    "url": "https://informaconnect.com/finovatespring/",
+    "cat": [
+      "Fintech",
+      "Startup"
+    ],
+    "focus": "Fintech-demos"
+  },
+  {
+    "id": "e37",
+    "name": "Latitude59",
+    "date": "2026-05-21",
+    "end": "2026-05-22",
+    "city": "Tallinn",
+    "country": "EE",
+    "url": "https://www.latitude59.ee",
+    "cat": [
+      "Tech",
+      "Startup",
+      "VC"
+    ],
+    "focus": "Baltisk-nordisk startup-konferens"
+  },
+  {
+    "name": "Breakit Resilience Summit",
+    "date": "2026-05-27",
+    "end": "2026-05-27",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://event.breakit.se/resilience-summit-2026",
+    "cat": [
+      "Tech",
+      "Deeptech"
+    ],
+    "focus": "Säkerhet, försvar och defense tech – datum ej bekräftat, ca maj",
+    "id": "e91"
+  },
+  {
+    "id": "e38",
+    "name": "Nordic Scaleup Summit",
+    "date": "2026-05-29",
+    "end": "2026-05-29",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://www.nordicinnovation.org",
+    "cat": [
+      "Startup"
+    ],
+    "focus": "Scaleup-priser och summit"
+  },
+  {
+    "id": "e39",
+    "name": "Dublin Tech Summit",
+    "date": "2026-05-29",
+    "end": "2026-05-29",
+    "city": "Dublin",
+    "country": "IE",
+    "url": "https://dublintechsummit.tech",
+    "cat": [
+      "Tech",
+      "Startup"
+    ],
+    "focus": "Irländsk tech-konferens"
+  },
+  {
+    "id": "e40",
+    "name": "Connect Syd / Nationellt",
+    "date": "2026-06-01",
+    "end": "2026-06-01",
+    "city": "Malmö",
+    "country": "SE",
+    "url": "https://www.connectsverige.se",
+    "cat": [
+      "Startup",
+      "VC"
+    ],
+    "focus": "Pitch-event, 70% success rate"
+  },
+  {
+    "id": "e42",
+    "name": "Arctic15",
+    "date": "2026-06-03",
+    "end": "2026-06-04",
+    "city": "Helsingfors",
+    "country": "FI",
+    "url": "https://arctic15.com",
+    "cat": [
+      "Startup",
+      "VC"
+    ],
+    "focus": "Nordisk matchmaking startups/investerare"
+  },
+  {
+    "name": "South Summit Madrid",
+    "date": "2026-06-04",
+    "end": "2026-06-05",
+    "city": "Madrid",
+    "country": "ES",
+    "url": "https://www.southsummit.co",
+    "cat": [
+      "Startup",
+      "VC",
+      "Tech"
+    ],
+    "focus": "Ledande europeisk startup-konferens, pitchtävling och investerarnätverk",
+    "id": "e85"
+  },
+  {
+    "id": "e43",
+    "name": "Bits & Pretzels HealthTech",
+    "date": "2026-06-05",
+    "end": "2026-06-06",
+    "city": "München",
+    "country": "DE",
+    "url": "https://www.health.tech",
+    "cat": [
+      "Healthtech",
+      "VC"
+    ],
+    "focus": "Healthtech startup-konferens"
+  },
+  {
+    "id": "e44",
+    "name": "BIO International Convention",
+    "date": "2026-06-08",
+    "end": "2026-06-11",
+    "city": "San Francisco",
+    "country": "US",
+    "url": "https://convention.bio.org",
+    "cat": [
+      "Life Science",
+      "Biotech"
+    ],
+    "focus": "Världens största biotech-partnering"
+  },
+  {
+    "id": "e45",
+    "name": "London Tech Week",
+    "date": "2026-06-08",
+    "end": "2026-06-12",
+    "city": "London",
+    "country": "UK",
+    "url": "https://londontechweek.com",
+    "cat": [
+      "Tech",
+      "AI",
+      "VC"
+    ],
+    "focus": "Europas största tech-festival"
+  },
+  {
+    "name": "Impact CEE",
+    "date": "2026-06-10",
+    "end": "2026-06-11",
+    "city": "Poznań",
+    "country": "EU",
+    "url": "https://impactcee.com",
+    "cat": [
+      "Tech",
+      "Startup"
+    ],
+    "focus": "6000+ deltagare, 10 scener, startup-tävlingar och workshops",
+    "id": "e87"
+  },
+  {
+    "id": "e46",
+    "name": "Hello Tomorrow Global Summit",
+    "date": "2026-06-11",
+    "end": "2026-06-12",
+    "city": "Amsterdam",
+    "country": "NL",
+    "url": "https://hello-tomorrow.org/global-summit/",
+    "cat": [
+      "Deeptech",
+      "VC"
+    ],
+    "focus": "Europas ledande deeptech-event"
+  },
+  {
+    "id": "e47",
+    "name": "Brilliant Minds",
+    "date": "2026-06-15",
+    "end": "2026-06-16",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://brilliantminds.co",
+    "cat": [
+      "Tech"
+    ],
+    "focus": "Daniel Ek-grundat, tech + kultur + innovation"
+  },
+  {
+    "id": "e48",
+    "name": "MedTech Summit",
+    "date": "2026-06-15",
+    "end": "2026-06-18",
+    "city": "Berlin",
+    "country": "DE",
+    "url": "",
+    "cat": [
+      "Medtech",
+      "AI"
+    ],
+    "focus": "EU MDR, AI-reglering och biocompatibility"
+  },
+  {
+    "id": "e49",
+    "name": "Viva Technology",
+    "date": "2026-06-17",
+    "end": "2026-06-19",
+    "city": "Paris",
+    "country": "FR",
+    "url": "https://vivatechnology.com",
+    "cat": [
+      "Tech",
+      "AI",
+      "VC"
+    ],
+    "focus": "Europas ledande startup- och tech-konferens"
+  },
+  {
+    "name": "Collision",
+    "date": "2026-06-22",
+    "end": "2026-06-25",
+    "city": "Toronto",
+    "country": "US",
+    "url": "https://collisionconf.com",
+    "cat": [
+      "Tech",
+      "Startup",
+      "VC"
+    ],
+    "focus": "Nordamerikas snabbast växande tech-konferens, 40 000+ deltagare",
+    "id": "e86"
+  },
+  {
+    "name": "Breakit Almedalen",
+    "date": "2026-06-24",
+    "end": "2026-06-25",
+    "city": "Visby",
+    "country": "SE",
+    "url": "https://event.breakit.se/almedalen-2026",
+    "cat": [
+      "Tech",
+      "Startup"
+    ],
+    "focus": "Breakits Almedalsprogram, tech & politik",
+    "id": "e92"
+  },
+  {
+    "id": "e50",
+    "name": "Cleantech Venture Day",
+    "date": "2026-07-02",
+    "end": "2026-07-02",
+    "city": "London",
+    "country": "UK",
+    "url": "http://www.cleantechday.com",
+    "cat": [
+      "Cleantech",
+      "VC"
+    ],
+    "focus": "Cleantech-investerardag"
+  },
+  {
+    "id": "e51",
+    "name": "TechBBQ",
+    "date": "2026-08-26",
+    "end": "2026-08-27",
+    "city": "Köpenhamn",
+    "country": "DK",
+    "url": "https://techbbq.dk",
+    "cat": [
+      "Tech",
+      "Startup",
+      "VC"
+    ],
+    "focus": "Nordens största startup-konferens, 10 000+ deltagare"
+  },
+  {
+    "name": "IT Arena",
+    "date": "2026-09-01",
+    "end": "2026-09-03",
+    "city": "Lviv",
+    "country": "EU",
+    "url": "https://itarena.ua",
+    "cat": [
+      "Tech",
+      "Deeptech",
+      "Startup"
+    ],
+    "focus": "Ukrainsk tech-konferens, cybersäkerhet, AI och drone-tech",
+    "id": "e89"
+  },
+  {
+    "id": "e52",
+    "name": "Nordic Tech Week",
+    "date": "2026-09-07",
+    "end": "2026-09-11",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://www.nordictechweek.org",
+    "cat": [
+      "Tech",
+      "Startup",
+      "VC"
+    ],
+    "focus": "300+ event, gratis flaggskeppskonferens"
+  },
+  {
+    "id": "e53",
+    "name": "Nordic Life Science Days",
+    "date": "2026-09-08",
+    "end": "2026-09-09",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://nlsdays.com",
+    "cat": [
+      "Life Science",
+      "Biotech",
+      "Investor"
+    ],
+    "focus": "Nordens snabbast växande life science-event"
+  },
+  {
+    "id": "e54",
+    "name": "Finovate Fall",
+    "date": "2026-09-09",
+    "end": "2026-09-11",
+    "city": "New York",
+    "country": "US",
+    "url": "https://informaconnect.com/finovatefall/",
+    "cat": [
+      "Fintech",
+      "Startup"
+    ],
+    "focus": "Fintech-demos, 2000+ beslutsfattare"
+  },
+  {
+    "id": "e55",
+    "name": "The Drop",
+    "date": "2026-09-15",
+    "end": "2026-09-16",
+    "city": "Malmö",
+    "country": "SE",
+    "url": "https://thedropconf.com",
+    "cat": [
+      "Cleantech",
+      "VC"
+    ],
+    "focus": "Invite-only klimattech-investerarsummit"
+  },
+  {
+    "id": "e56",
+    "name": "PDA/FDA Regulatory Conference",
+    "date": "2026-09-15",
+    "end": "2026-09-15",
+    "city": "Washington DC",
+    "country": "US",
+    "url": "",
+    "cat": [
+      "Life Science"
+    ],
+    "focus": "Tillverknings- och kvalitetsfrågor i life sciences"
+  },
+  {
+    "id": "e57",
+    "name": "NORDEEP Nordic Deep Tech Summit",
+    "date": "2026-09-16",
+    "end": "2026-09-17",
+    "city": "Espoo",
+    "country": "FI",
+    "url": "https://nordeep.com",
+    "cat": [
+      "Deeptech",
+      "VC"
+    ],
+    "focus": "Nordens största deeptech-business-summit"
+  },
+  {
+    "id": "e58",
+    "name": "Oslo Innovation Week",
+    "date": "2026-09-23",
+    "end": "2026-09-25",
+    "city": "Oslo",
+    "country": "NO",
+    "url": "https://oiw.no",
+    "cat": [
+      "Tech",
+      "Startup"
+    ],
+    "focus": "Norsk innovationsvecka"
+  },
+  {
+    "name": "Breakit E-com Day",
+    "date": "2026-09-24",
+    "end": "2026-09-24",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://event.breakit.se/e-com-day-2026",
+    "cat": [
+      "Tech",
+      "Startup"
+    ],
+    "focus": "E-handel och retail, 400+ beslutsfattare, Space Arena",
+    "id": "e93"
+  },
+  {
+    "name": "Bits & Pretzels",
+    "date": "2026-09-28",
+    "end": "2026-09-30",
+    "city": "München",
+    "country": "DE",
+    "url": "https://www.bitsandpretzels.com",
+    "cat": [
+      "Startup",
+      "VC",
+      "Tech"
+    ],
+    "focus": "7500 founders & investerare under Oktoberfest, 3-dagars konferens",
+    "id": "e88"
+  },
+  {
+    "id": "e59",
+    "name": "Sweden Demo Day",
+    "date": "2026-10-01",
+    "end": "2026-10-01",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://www.swedendemokday.com",
+    "cat": [
+      "Startup",
+      "VC"
+    ],
+    "focus": "Svenska startups pitchar för investerare"
+  },
+  {
+    "id": "e60",
+    "name": "Sifted Summit",
+    "date": "2026-10-02",
+    "end": "2026-10-03",
+    "city": "London",
+    "country": "UK",
+    "url": "https://sifted.eu/summit",
+    "cat": [
+      "VC",
+      "Startup",
+      "Tech"
+    ],
+    "focus": "Europeisk VC/startup-summit"
+  },
+  {
+    "id": "e61",
+    "name": "Female Investor Startup Event",
+    "date": "2026-10-22",
+    "end": "2026-10-22",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://www.almi.se",
+    "cat": [
+      "VC",
+      "Diversity"
+    ],
+    "focus": "Investerardag fokus kvinnliga grundare"
+  },
+  {
+    "id": "e62",
+    "name": "Breakit SaaS Summit",
+    "date": "2026-10-22",
+    "end": "2026-10-22",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://event.breakit.se/saas-summit-2026",
+    "cat": [
+      "SaaS",
+      "Startup",
+      "VC"
+    ],
+    "focus": "Nordiska SaaS-branschen, 400+ deltagare, SPACE Arena"
+  },
+  {
+    "id": "e63",
+    "name": "TechCrunch Disrupt",
+    "date": "2026-10-28",
+    "end": "2026-10-30",
+    "city": "San Francisco",
+    "country": "US",
+    "url": "https://techcrunch.com/events/",
+    "cat": [
+      "Tech",
+      "Startup",
+      "VC"
+    ],
+    "focus": "Globalt flaggskeppsevent startups och investerare"
+  },
+  {
+    "id": "e64",
+    "name": "Nordic Female Investor Summit",
+    "date": "2026-11-01",
+    "end": "2026-11-01",
+    "city": "Malmö",
+    "country": "SE",
+    "url": "https://www.almi.se",
+    "cat": [
+      "VC",
+      "Diversity"
+    ],
+    "focus": "Almi Invest Syd, kvinnliga investerare"
+  },
+  {
+    "id": "e65",
+    "name": "BIO-Europe",
+    "date": "2026-11-02",
+    "end": "2026-11-05",
+    "city": "Köln",
+    "country": "DE",
+    "url": "https://informaconnect.com/bioeurope/",
+    "cat": [
+      "Life Science",
+      "Biotech"
+    ],
+    "focus": "5500+ deltagare, Europas ledande life science partnering"
+  },
+  {
+    "name": "Breakit Funding Day Göteborg",
+    "date": "2026-11-03",
+    "end": "2026-11-03",
+    "city": "Göteborg",
+    "country": "SE",
+    "url": "https://event.breakit.se/funding-day-goteborg-2026",
+    "cat": [
+      "VC",
+      "Startup"
+    ],
+    "focus": "Finansiering för startups & techbolag, Jacy'z Hotel & Resort",
+    "id": "e94"
+  },
+  {
+    "id": "e66",
+    "name": "Web Summit",
+    "date": "2026-11-10",
+    "end": "2026-11-13",
+    "city": "Lissabon",
+    "country": "PT",
+    "url": "https://websummit.com",
+    "cat": [
+      "Tech",
+      "AI",
+      "VC"
+    ],
+    "focus": "70 000+ deltagare, internationellt tech-event"
+  },
+  {
+    "name": "Horizon Deep Tech Summit",
+    "date": "2026-11-10",
+    "end": "2026-11-12",
+    "city": "Madrid",
+    "country": "ES",
+    "url": "https://www.horizondeeptech.com",
+    "cat": [
+      "Deeptech",
+      "VC",
+      "AI"
+    ],
+    "focus": "Madrids flaggskepps-deeptech summit, founders/investors/corporates, 3 dagar",
+    "id": "e80"
+  },
+  {
+    "id": "e67",
+    "name": "Medica",
+    "date": "2026-11-16",
+    "end": "2026-11-19",
+    "city": "Düsseldorf",
+    "country": "DE",
+    "url": "https://www.medica-tradefair.com",
+    "cat": [
+      "Medtech",
+      "Healthtech"
+    ],
+    "focus": "Världens största medtech-mässa"
+  },
+  {
+    "id": "e68",
+    "name": "Slush",
+    "date": "2026-11-18",
+    "end": "2026-11-19",
+    "city": "Helsingfors",
+    "country": "FI",
+    "url": "https://slush.org",
+    "cat": [
+      "Startup",
+      "VC",
+      "Deeptech",
+      "AI"
+    ],
+    "focus": "Världens mest founder-fokuserade event, 6000 startups, 3500 investerare"
+  },
+  {
+    "id": "e69",
+    "name": "LSX Investival Showcase",
+    "date": "2026-11-18",
+    "end": "2026-11-18",
+    "city": "London",
+    "country": "UK",
+    "url": "https://www.lsxleaders.com",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Life science investerarshowcase"
+  },
+  {
+    "id": "e70",
+    "name": "LSX Lifestars Awards",
+    "date": "2026-11-18",
+    "end": "2026-11-18",
+    "city": "London",
+    "country": "UK",
+    "url": "https://www.lsxleaders.com",
+    "cat": [
+      "Life Science"
+    ],
+    "focus": "Life science-priser, nätverkande"
+  },
+  {
+    "name": "Breakit Fintech Day",
+    "date": "2026-11-26",
+    "end": "2026-11-26",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://event.breakit.se/fintech-day-2026",
+    "cat": [
+      "Fintech",
+      "Startup"
+    ],
+    "focus": "Fintech-event, regleringar och automation, Epicenter",
+    "id": "e95"
+  },
+  {
+    "id": "e73",
+    "name": "Nordic-American LS Conference",
+    "date": "2026-12-01",
+    "end": "2026-12-01",
+    "city": "New York",
+    "country": "US",
+    "url": "https://www.nordiclifescience.org",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Transatlantiskt life science investerarforum"
+  },
+  {
+    "id": "e74",
+    "name": "DNB Nordic Healthcare",
+    "date": "2026-12-01",
+    "end": "2026-12-01",
+    "city": "Oslo",
+    "country": "NO",
+    "url": "https://www.dnb.no",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "DNB healthcare-investerarkonferens"
+  },
+  {
+    "id": "e71",
+    "name": "Women in Private Markets Summit",
+    "date": "2026-12-04",
+    "end": "2026-12-04",
+    "city": "London",
+    "country": "UK",
+    "url": "https://www.peievents.com",
+    "cat": [
+      "VC",
+      "Diversity"
+    ],
+    "focus": "Kvinnor i PE och venture"
+  },
+  {
+    "id": "e72",
+    "name": "Redeye Life Science Day",
+    "date": "2026-12-06",
+    "end": "2026-12-06",
+    "city": "Stockholm",
+    "country": "SE",
+    "url": "https://www.redeye.se",
+    "cat": [
+      "Life Science",
+      "Investor"
+    ],
+    "focus": "Redeye investerardag life science"
+  }
+]
