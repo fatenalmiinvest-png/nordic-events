@@ -226,20 +226,6 @@
     "focus": "Regionalt investerarevent Skåne"
   },
   {
-    "id": "e20",
-    "name": "Swedish Life Science Investor Meeting",
-    "date": "2026-04-11",
-    "end": "2026-04-11",
-    "city": "Virtuell",
-    "country": "SE",
-    "url": "https://www.b2match.com",
-    "cat": [
-      "Life Science",
-      "Investor"
-    ],
-    "focus": "Virtuell investerardag"
-  },
-  {
     "id": "e21",
     "name": "Saasiest",
     "date": "2026-05-05",
