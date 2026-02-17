@@ -142,20 +142,6 @@
     "focus": "Nordisk fintech-hub, nätverkande och pitch"
   },
   {
-    "id": "e12",
-    "name": "Swiss Nordic Bio",
-    "date": "2026-03-07",
-    "end": "2026-03-07",
-    "city": "Zürich",
-    "country": "CH",
-    "url": "https://www.b2match.com",
-    "cat": [
-      "Life Science",
-      "Investor"
-    ],
-    "focus": "Schweizisk-nordiskt life science-partnerskap"
-  },
-  {
     "id": "e15",
     "name": "BIO-Europe Spring",
     "date": "2026-03-17",
@@ -196,20 +182,6 @@
     ],
     "focus": "Invite-only VC-event för Centraleuropa, 200+ GPs och LPs",
     "id": "e82"
-  },
-  {
-    "id": "e17",
-    "name": "GPC Conference",
-    "date": "2026-03-25",
-    "end": "2026-03-25",
-    "city": "New York",
-    "country": "US",
-    "url": "https://www.gpcconference.org",
-    "cat": [
-      "VC",
-      "Investor"
-    ],
-    "focus": "LP/GP-konferens, global private capital"
   },
   {
     "id": "e18",
@@ -408,20 +380,6 @@
     "focus": "Malmö Stad + AWS, seed/A-runda"
   },
   {
-    "id": "e34",
-    "name": "Women in Private Markets NA",
-    "date": "2026-05-15",
-    "end": "2026-05-15",
-    "city": "New York",
-    "country": "US",
-    "url": "https://www.peievents.com",
-    "cat": [
-      "VC",
-      "Diversity"
-    ],
-    "focus": "Nordamerikanskt PE/VC diversity-event"
-  },
-  {
     "id": "e33",
     "name": "Nordic Sustainability Expo",
     "date": "2026-03-13",
@@ -461,20 +419,6 @@
       "Investor"
     ],
     "focus": "Nordisk life science investerarkonferens"
-  },
-  {
-    "id": "e36",
-    "name": "Finovate Spring",
-    "date": "2026-05-21",
-    "end": "2026-05-22",
-    "city": "San Francisco",
-    "country": "US",
-    "url": "https://informaconnect.com/finovatespring/",
-    "cat": [
-      "Fintech",
-      "Startup"
-    ],
-    "focus": "Fintech-demos"
   },
   {
     "id": "e37",
