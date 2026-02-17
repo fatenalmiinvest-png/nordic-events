@@ -242,8 +242,8 @@
   {
     "id": "e21",
     "name": "Saasiest",
-    "date": "2026-04-16",
-    "end": "2026-04-16",
+    "date": "2026-05-05",
+    "end": "2026-05-06",
     "city": "Malmö",
     "country": "SE",
     "url": "https://saasiest.com",
@@ -256,8 +256,8 @@
   {
     "id": "e22",
     "name": "Women in Tech Sweden",
-    "date": "2026-04-17",
-    "end": "2026-04-17",
+    "date": "2026-04-22",
+    "end": "2026-04-22",
     "city": "Stockholm",
     "country": "SE",
     "url": "https://womenintech.se",
@@ -303,7 +303,7 @@
     "end": "2026-04-23",
     "city": "Stockholm",
     "country": "SE",
-    "url": "",
+    "url": "https://www.nordicgrowthsummit.tech",
     "cat": [
       "Deeptech",
       "AI"
@@ -355,8 +355,8 @@
   {
     "id": "e29",
     "name": "Vitalis",
-    "date": "2026-05-13",
-    "end": "2026-05-14",
+    "date": "2026-05-04",
+    "end": "2026-05-07",
     "city": "Göteborg",
     "country": "SE",
     "url": "https://vitalis.nu",
@@ -369,8 +369,8 @@
   {
     "id": "e30",
     "name": "Demo North Summit",
-    "date": "2026-05-14",
-    "end": "2026-05-14",
+    "date": "2026-09-22",
+    "end": "2026-09-23",
     "city": "Norrland",
     "country": "SE",
     "url": "https://www.demonorth.com",
@@ -438,11 +438,11 @@
   {
     "id": "e33",
     "name": "Nordic Sustainability Expo",
-    "date": "2026-05-17",
-    "end": "2026-05-18",
+    "date": "2026-03-13",
+    "end": "2026-03-14",
     "city": "Stockholm",
     "country": "SE",
-    "url": "https://www.nordicsustainabilityexpo.com",
+    "url": "https://www.nordicsustainabilityarena.com",
     "cat": [
       "Cleantech"
     ],
@@ -535,8 +535,8 @@
   {
     "id": "e39",
     "name": "Dublin Tech Summit",
-    "date": "2026-05-29",
-    "end": "2026-05-29",
+    "date": "2026-05-27",
+    "end": "2026-05-28",
     "city": "Dublin",
     "country": "IE",
     "url": "https://dublintechsummit.tech",
@@ -544,27 +544,13 @@
       "Tech",
       "Startup"
     ],
-    "focus": "Irländsk tech-konferens"
-  },
-  {
-    "id": "e40",
-    "name": "Connect Syd / Nationellt",
-    "date": "2026-06-01",
-    "end": "2026-06-01",
-    "city": "Malmö",
-    "country": "SE",
-    "url": "https://www.connectsverige.se",
-    "cat": [
-      "Startup",
-      "VC"
-    ],
-    "focus": "Pitch-event, 70% success rate"
+    "focus": "Irländsk tech-konferens"  
   },
   {
     "id": "e42",
     "name": "Arctic15",
-    "date": "2026-06-03",
-    "end": "2026-06-04",
+    "date": "2026-06-11",
+    "end": "2026-06-12",
     "city": "Helsingfors",
     "country": "FI",
     "url": "https://arctic15.com",
@@ -863,8 +849,8 @@
   {
     "id": "e58",
     "name": "Oslo Innovation Week",
-    "date": "2026-09-23",
-    "end": "2026-09-25",
+    "date": "2026-10-19",
+    "end": "2026-10-23",
     "city": "Oslo",
     "country": "NO",
     "url": "https://oiw.no",
@@ -975,20 +961,6 @@
       "VC"
     ],
     "focus": "Globalt flaggskeppsevent startups och investerare"
-  },
-  {
-    "id": "e64",
-    "name": "Nordic Female Investor Summit",
-    "date": "2026-11-01",
-    "end": "2026-11-01",
-    "city": "Malmö",
-    "country": "SE",
-    "url": "https://www.almi.se",
-    "cat": [
-      "VC",
-      "Diversity"
-    ],
-    "focus": "Almi Invest Syd, kvinnliga investerare"
   },
   {
     "id": "e65",
