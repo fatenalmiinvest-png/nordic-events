@@ -1063,18 +1063,28 @@
     ],
     "focus": "Kvinnor i PE och venture"
   },
-  {
-    "id": "e72",
-    "name": "Redeye Life Science Day",
-    "date": "2026-12-06",
-    "end": "2026-12-06",
-    "city": "Stockholm",
-    "country": "SE",
-    "url": "https://www.redeye.se",
-    "cat": [
-      "Life Science",
-      "Investor"
-    ],
-    "focus": "Redeye investerardag life science"
-  }
+   {
+  "id": "e96",
+  "name": "Feminvest Fearless Stockholm 2026",
+  "date": "2026-04-17",
+  "end": "2026-04-17",
+  "city": "Stockholm",
+  "country": "SE",
+  "url": "https://www.feminvest.se/event/fearless-stockholm2026/",
+  "cat": ["Investor","Diversity"],
+  "focus": "Investerarevent med fokus på kvinnligt entreprenörskap och kapital"
+},
+{
+  "id": "e97",
+  "name": "Deeptech Startup & Investor Event",
+  "date": "2026-04-23",
+  "end": "2026-04-23",
+  "city": "Helsinki",
+  "country": "FI",
+  "url": "https://luma.com/o1osec4b",
+  "cat": ["Deeptech","Startup","VC"],
+  "focus": "Europeiskt deeptech-event i Helsingfors med startups, investerare, keynote-talare och nätverkande"
+}
+
+
 ]
