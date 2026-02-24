@@ -1084,7 +1084,17 @@
   "url": "https://luma.com/o1osec4b",
   "cat": ["Deeptech","Startup","VC"],
   "focus": "Europeiskt deeptech-event i Helsingfors med startups, investerare, keynote-talare och nätverkande"
-}
+},
+{
+  "id": "e98",
+  "name": "Medtech Summit & Investor Event",
+  "date": "2026-03-04",
+  "end": "2026-03-04",
+  "city": "Malmö",
+  "country": "SE",
+  "url": "https://https://www.medeon.se/events/medtech-summit-2026/",
+  "cat": ["Medtech","Startup","VC"],
+  "focus": "Europeiskt Medtech event i Malmö samlar startups, investerare och nätverkande"
 
 
 ]
