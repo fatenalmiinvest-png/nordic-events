@@ -1095,6 +1095,18 @@
   "url": "https://www.medeon.se/events/medtech-summit-2026/",
   "cat": ["Medtech","Startup","VC"],
   "focus": "Europeiskt Medtech event i Malmö samlar startups, investerare och nätverkande"
+  },
+{
+  
+   "id": "e99",
+  "name": "Life Science Fair Flemingsberg",
+  "date": "2026-03-25",
+  "end": "2026-03-25",
+  "city": "Flemingsberg",
+  "country": "SE",
+  "url": "https://https://flemingsbergscience.se/stec_event/life-science-fair-flemingsberg-money-talks//",
+  "cat": ["Lifescience","Startup","VC"],
+  "focus": "meeting place where leading life science companies and voices from across the ecosystem come together to showcase, connect, and inspire."
   }
 
 
