@@ -1107,7 +1107,30 @@
   "url": "https://https://flemingsbergscience.se/stec_event/life-science-fair-flemingsberg-money-talks//",
   "cat": ["Lifescience","Startup","VC"],
   "focus": "meeting place where leading life science companies and voices from across the ecosystem come together to showcase, connect, and inspire."
+  },
+{
+  
+   "id": "e100",
+  "name": "Start Summit 2026",
+  "date": "2026-03-19",
+  "end": "2026-03-20",
+  "city": "ST Gallen",
+  "country": "CH",
+  "url": "https://www.startglobal.org/start-summit//",
+  "cat": ["Tech","Startup","VC"],
+  "focus": "START Summit är Europas största studentdrivna startup-event där investerare träffar tidiga teknikbolag och nätverkar med grundare och LP´s."
+    },
+{
+  
+   "id": "e101",
+  "name": "AI summit Barcelona",
+  "date": "2026-09-22",
+  "end": "2026-09-23",
+  "city": "Barcelona",
+  "country": "ES",
+  "url": "https://aisummitbarcelona.com///",
+  "cat": ["AI","Startup","VC"],
+  "focus": "AI Summit, en ledande global mötesplats för AI-innovation där företag, investerare samlas och inspireras till framtidens AI-lösningar."
   }
-
 
 ]
